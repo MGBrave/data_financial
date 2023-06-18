@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://github.com/MGBrave/LaCasaMia/blob/main/landingpage/full.png?raw=true" alt="mgcode" />
+<img src="https://github.com/MGBrave/data_financial/blob/main/p1.png?raw=true" width="400" alt="mgcode" />
 
 
 
